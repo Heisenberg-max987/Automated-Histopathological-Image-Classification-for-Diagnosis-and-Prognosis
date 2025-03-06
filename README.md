@@ -1,2 +1,2 @@
 # Automated-Histopathological-Image-Classification-for-Diagnosis-and-Prognosis
-My recent research project
+This is the manuscript of my recent research project in medical image classification.
